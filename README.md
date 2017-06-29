@@ -5,6 +5,7 @@ I) Objectif
 L’Objectif est de fournir aux ESCs le signal de commande qu’ils attendent. Source : https://drive.google.com/open?id=0B5Z2mGW3obq-MUNwbHJhaFBNaTQ 
 
 II) Matériel 
+
 – 1 Raspberry Pi 2 Model B+ 
 – 1 Carte micro-SD 
 – 1 Gyroscope 3 axes 
