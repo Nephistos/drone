@@ -11,3 +11,6 @@ Aujourd'hui, je suis capable de :
 - Utiliser les valeurs récupérées depuis la manette Xbox360 pour envoyer des signaux PWM aux ESC du drone qui pilotent les moteurs.
 
 En résumé, je suis capable de piloter les moteurs de mon drone via une consigne envoyé depuis ma manette Xbox360. De plus, je récupère les valeurs de mon Gyroscope 3 axes.
+
+# Lien
+- Video : https://www.youtube.com/watch?v=UWEQvqE_tSw
